@@ -1,0 +1,40 @@
+
+********  Config *********
+Time: 2023-05-22 & 16:10:01
+Initial guess generation: LHS
+N iter: 100
+N proc: 8
+
+
+
+********  Scenario Minimize Social - Summary *********
+Number of decision variables: 18
+Number of constraints: 7
+Total time: 0:08:02
+Average time per iteration: 0:00:29
+Successful iterations: 100
+Number of best iterations: 100
+Number of >95 iterations: 100
+
+
+
+********  Scenario Minimize Costs - Summary *********
+Number of decision variables: 18
+Number of constraints: 7
+Total time: 0:09:25
+Average time per iteration: 0:00:37
+Successful iterations: 100
+Number of best iterations: 100
+Number of >95 iterations: 100
+
+
+
+********  Scenario Minimize GHG - Summary *********
+Number of decision variables: 18
+Number of constraints: 7
+Total time: 0:08:39
+Average time per iteration: 0:00:32
+Successful iterations: 100
+Number of best iterations: 100
+Number of >95 iterations: 100
+
